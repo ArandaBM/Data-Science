@@ -1,0 +1,2 @@
+# Learning
+This repository is totally dedicated to my study materials, but it can be very useful for other students. Here I will glue the fundamentals I am learning, together with my thoughts and implementations about what has been studied.
