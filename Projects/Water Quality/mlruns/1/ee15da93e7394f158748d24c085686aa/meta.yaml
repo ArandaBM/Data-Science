@@ -1,0 +1,15 @@
+artifact_uri: file:///home/baranda/Data-Science/Projects/Water%20Quality/mlruns/1/ee15da93e7394f158748d24c085686aa/artifacts
+end_time: 1624410820080
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ee15da93e7394f158748d24c085686aa
+run_uuid: ee15da93e7394f158748d24c085686aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1624410819774
+status: 3
+tags: []
+user_id: baranda

@@ -1,5 +1,6 @@
 {
-    "python.pythonPath": "/home/baranda/anaconda3/bin/python"
+    "python.pythonPath": "/home/baranda/anaconda3/bin/python",
+    "jupyter.jupyterServerType": "local"
 
     
 }
