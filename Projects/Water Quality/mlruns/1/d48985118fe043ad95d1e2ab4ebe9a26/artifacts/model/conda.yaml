@@ -1,7 +1,0 @@
-channels:
-- conda-forge
-dependencies:
-- pip
-- pip:
-  - pycaret==2.3.0
-name: Water_QV1-env
