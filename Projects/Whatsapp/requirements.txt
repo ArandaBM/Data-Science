@@ -1,1 +1,2 @@
 pywhatkit==5.1
+webbrowser
